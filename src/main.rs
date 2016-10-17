@@ -1,3 +1,8 @@
+/*
+ * Convex polygon search algorithm (Graham's algorithm) implemented in Rust
+ * (C) Cap. Hindsight <hindsight@yandex.ru>
+*/
+
 pub mod point;
 use point::*;
 
