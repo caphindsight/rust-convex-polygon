@@ -1,0 +1,7 @@
+[package]
+name = "convex_polygon"
+version = "0.1.0"
+authors = ["hindsight <hindsight@yandex.ru>"]
+
+[dependencies]
+text_io = "0.1.5"
